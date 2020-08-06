@@ -15,5 +15,3 @@ callback = (err, args) => {
 if(args.length > 2){
     mymodule(args[2], args[3], callback)
 }
-
-//
